@@ -1,6 +1,6 @@
 {
   "name": "alfred-vue-router",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Alfred workflow for Vue router",
   "license": "MIT",
   "repository": "prashantpalikhe/alfred-vue-router",
