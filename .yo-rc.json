@@ -1,0 +1,12 @@
+{
+  "generator-alfred-algolia": {
+    "promptValues": {
+      "githubUsername": "prashantpalikhe",
+      "website": "https://twitter.com/prashantpalikhe",
+      "algoliaApplicationId": "BH4D9OD16A",
+      "algoliaApiKey": "f854bb46d3de7eeb921a3b9173bd0d4c",
+      "algoliaIndex": "vue-router",
+      "iconUrl": "https://www.stickpng.com/assets/images/58482acecef1014c0b5e4a1e.png"
+    }
+  }
+}
